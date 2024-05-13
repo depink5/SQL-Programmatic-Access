@@ -24,11 +24,11 @@ from tabulate import tabulate
 # CONEXIÓN CON LA BASE DE DATOS
 #Primero definimos todos los parámetros necesarios para conectarnos con la base de datos de sql, el nombre, el puerto, la contraseña, ...
 config = { 
-    'host':'localhost',
-    'port':'3306',
-    'user':'disnet_user',
-    'password':'disnet_pwd',
-    'database':'disnet_drugslayer',
+    'host':'',
+    'port':'',
+    'user':'',
+    'password':'',
+    'database':'',
     }  
 #Definimos el cursor de la base de datos
 try: 
